@@ -31,7 +31,7 @@ class FlareDemo extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: FlareActor("assets/loading.flr",
+        child: FlareActor("assets/loading_circle.flr",
         animation:"animate",
         fit: BoxFit.contain,
         )
