@@ -1,4 +1,4 @@
-# flarex
+# FlareEx
 
 A new Flutter application.
 
